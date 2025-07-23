@@ -33,6 +33,7 @@ dist/
 
 # dotenv
 .env
+env
 
 # IDE
 .vscode/
